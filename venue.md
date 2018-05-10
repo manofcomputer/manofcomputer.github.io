@@ -4,4 +4,4 @@ title: Venue
 permalink: /venue/
 ---
 
-# Auditorium Mualana Azad Medical College
+#Auditorium Mualana Azad Medical College
