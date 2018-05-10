@@ -1,7 +1,6 @@
 ---
-layout: venue
+layout: venuehtml
 title: Venue
 permalink: /venue/
 ---
-
-#Auditorium Mualana Azad Medical College
+MAMC
