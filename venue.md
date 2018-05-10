@@ -3,4 +3,4 @@ layout: venuehtml
 title: Venue
 permalink: /venue/
 ---
-MAMC
+Mualana Azad Medical College Auditorium
