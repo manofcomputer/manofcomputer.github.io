@@ -14,4 +14,4 @@ Pay at:
 - Account Name   - MAMC anaesthesia Update
 - IFSC Code      - SYNB0009068
 
-##### After payment fill the registration details [here](https://goo.gl/forms/eNCefOnZRpNRxl2n1)
+##### After payment fill the registration details [here](https://goo.gl/forms/eNCefOnZRpNRxl2n1){:target="_blank"}
