@@ -10,6 +10,7 @@ Fee details:
 - Rs. 4000/-, on-spot registration.
 
 Pay at:
+- Bank           - Syndicate Bank
 - Account Number - 9068201013461
 - Account Name   - MAMC anaesthesia Update
 - IFSC Code      - SYNB0009068
