@@ -211,7 +211,7 @@ img {
 }
 
 nav {
-  float: right;
+  float: left;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
@@ -289,20 +289,19 @@ footer {
 @import "svg-icons";
 
 
-    	#slideshow { 
-    margin: 30px auto; 
-    position: relative; 
-    width: 400px; 
-    height: 300px; 
-    padding: 10px; 
-    box-shadow: 0 0 10px rgba(0,0,0,0.4); 
+    	#slideshow {
+    margin: 30px auto;
+    position: relative;
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
 }
 
-#slideshow > div { 
-    position: absolute; 
-    top: 5px; 
-    left: 5px; 
-    right: 5px; 
-    bottom: 5px; 
-}
-	
+#slideshow > div {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+  }
