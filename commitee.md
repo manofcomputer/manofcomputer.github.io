@@ -29,5 +29,6 @@ permalink: /commitee/
 | Dr. Bharti Wadhawan| Dr. Mona Arya| Dr. Kapil Chowdhary |
 | Dr. Rahil Singh| Dr. Sukhyanti |Dr. Mishra |
 | Dr. Sunil Arora| Dr. Anil Mishra| Dr. Neera Rani|
-| Dr. Anjali| Dr. Gunjan | Dr. Asheem Gupta |
-| Dr. Prachi | Dr. Vishu | Dr. Farah Hussain| 
+| Dr. Anjali Sethi| Dr. Gunjan Manchanda| Dr. Asheem Gupta |
+| Dr. Prachi Gaba| Dr. Vishu Panwar| Dr. Farah Hussain| 
+| |Dr. Umesh Chand | | 
