@@ -4,8 +4,7 @@ title: Commitee
 permalink: /commitee/
 ---
 
-
-| **Patron**        |   **Organising Chairman** | **Co - Chairperson**    |
+| **Patron**        |  &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; **Organising Chairman**  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Co - Chairperson**    |
 | :--------------: | :-------------------: | :------------------: |
 | ![404]({{site.baseurl}}/images/ramji.jpg){:height="200px" width="200px"} |    ![404]({{site.baseurl}}/images/uc.jpg){:height="200px" width="200px"}     | ![404]({{site.baseurl}}/images/poon.png){:height="200px" width="200px"} |
 | Dr. S. Ramji |    Dr. U.C. Verma     | Dr. Poonam Bhadoria |  
@@ -19,3 +18,16 @@ permalink: /commitee/
 | |**Finance Seceretary** | |
 | |![404]({{site.baseurl}}/images/V.jpeg){:height="200px" width="200px"} | |
 | |Dr. Vandana Saith | |
+| | | |
+| |**Accomodation and Registration Inchrage** | |
+| :--------------: | :-------------------: | :------------------: |
+| | Dr. Lalit Gupta| |
+| | | | 
+| |**Team**  | |
+| :--------------: | :-------------------: | :------------------: |
+|Dr. Munisha Agarwaal| Dr. Kavita Sharma | Dr. Anju Balhotra |
+| Dr. Bharti Wadhawan| Dr. Mona Arya| Dr. Kapil Chowdhary |
+| Dr. Rahil Singh| Dr. Sukhyanti |Dr. Mishra |
+| Dr. Sunil Arora| Dr. Anil Mishra| Dr. Neera Rani|
+| Dr. Anjali| Dr. Gunjan | Dr. Asheem Gupta |
+| Dr. Prachi | Dr. Vishu | Dr. Farah Hussain| 
