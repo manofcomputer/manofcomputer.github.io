@@ -6,7 +6,7 @@ permalink: /registration/
 
 Fee details:
 - Rs. 2000/-, before 1st July 2018.
-- Rs. 3000/-, 1st July 2018 - 31st July 2018.
+- Rs. 3000/-, 1st July 2018 - 15th August 2018.
 - Rs. 4000/-, on-spot registration.
 
 Pay at:
