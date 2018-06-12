@@ -4,7 +4,7 @@ title: Commitee
 permalink: /commitee/
 ---
 
-| **Patron**        |  &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; **Patron**  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;|  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; **Organising Chairman**    |
+| **Patron**        |  &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; **Patron**  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp|  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; **Organising Chairman**    |
 | :--------------: | :-------------------: | :------------------: |
 | ![404]({{site.baseurl}}/images/ramji.jpg){:height="200px" width="200px"} |    ![404]({{site.baseurl}}/images/uc.jpg){:height="200px" width="200px"}     | ![404]({{site.baseurl}}/images/poon.png){:height="200px" width="200px"} |
 | Dr. S. Ramji |    Dr. U.C. Verma     | Dr. Poonam Bhadoria |  
@@ -32,3 +32,4 @@ permalink: /commitee/
 | Dr. Anjali Sethi| Dr. Gunjan Manchanda| Dr. Asheem Gupta |
 | Dr. Prachi Gaba| Dr. Vishnu Panwar| Dr. Farah Hussain| 
 |Dr. Preeti Thakur  |Dr. Rohit Gupta | Dr. Umesh Chand | 
+| |Dr. Rajni  | |
