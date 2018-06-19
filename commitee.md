@@ -11,15 +11,15 @@ permalink: /commitee/
 
 |              |                       |                     |
 
-| **Organising Seceretary**        |   **Co- organising Seceretary** | **Scientific Chairperson**    |
+| **Organising Secretary**        |   **Co-organising Secretary** | **Scientific Chairperson**    |
 | :--------------: | :-------------------: | :------------------: |
 | ![404]({{site.baseurl}}/images/N.jpg){:height="200px" width="200px"} |    ![404]({{site.baseurl}}/images/s.jpg){:height="200px" width="200px"}     | ![404]({{site.baseurl}}/images/S.jpeg){:height="200px" width="200px"} |
 | Dr. Neelam Prasad |    Dr. Amit Kohli    | Dr. Sonia Wadhawan |
-| |**Finance Seceretary** | |
+| |**Finance Secretary** | |
 | |![404]({{site.baseurl}}/images/V.jpeg){:height="200px" width="200px"} | |
 | |Dr. Vandana Saith | |
 | | | |
-| |**Accomodation and Registration Inchrage** | |
+| |**Accomodation and Registration Incharge** | |
 | :--------------: | :-------------------: | :------------------: |
 | | Dr. Lalit Gupta| |
 | | | | 
