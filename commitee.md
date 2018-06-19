@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Commitee
+title: Committee
 permalink: /commitee/
 ---
 
