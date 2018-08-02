@@ -11,11 +11,13 @@ residents to prepare for their examinations with emphasis on practical knowledge
 As always, case discussions, recent advances and problem based management on various topics in ANAESTHESIA will be covered by in house faculty and other eminent faculty from various teaching institutes in India. We look forward to your participation in large numbers.
 
 # Announcements:
-<marquee direction="up" scrollamount="4">
-<h3><strong><font color="red" size="2">NEW </font>Entries are invited from interested institutions for quiz on 2nd September (Team Size:3)</strong></h3>
-<h3><strong><font color="red" size="2">NEW </font>Schedule has now been released</strong></h3>
-
-</marquee>
+<!-- <marquee direction="up" scrollamount="4"> -->
+<div class="marquee">
+<p><strong><font color="red" size="2">NEW </font>Entries are invited from interested institutions for quiz on 2nd September (Team Size:3)</strong>
+	<br>
+	<strong><font color="red" size="2">NEW </font>Schedule has now been released</strong></p>
+</div>
+<!-- </marquee> -->
 
 # Highlights:
 1. Live discussions with eminent examiners.

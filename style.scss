@@ -289,7 +289,7 @@ footer {
 @import "svg-icons";
 
 
-    	#slideshow {
+#slideshow {
     margin: 30px auto;
     position: relative;
     width: 400px;
@@ -305,3 +305,23 @@ footer {
     right: 5px;
     bottom: 5px;
   }
+
+.marquee {
+	height: 100px;
+	background-color: white;
+	color: black;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+.marquee p {
+    display: inline-block;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    animation: marquee 4s linear infinite;
+}
+
+@keyframes marquee {
+    0%   { transform: translate(0, 0); }
+    100% { transform: translate(0, -100%); }
+}
