@@ -26,10 +26,10 @@ permalink: /commitee/
 | |**Team**  | |
 | :--------------: | :-------------------: | :------------------: |
 |Dr. Munisha Agarwal| Dr. Kavita Sharma | Dr. Anju Bhalotra |
-| Dr. Bharti Taneja| Dr. Mona Arya| Dr. Kapil Chowdhary |
+| Dr. Bharti Taneja| Dr. Mona Arya| Dr. Kapil Chuwdhary |
 | Dr. Rahil Singh| Dr. Sukhyanti |Dr. Mishra |
 | Dr. Sunil Arora| Dr. Anil Mishra| Dr. Neera Rani|
 | Dr. Anjali Sethi| Dr. Gunjan Manchanda| Dr. Asheem Gupta |
 | Dr. Prachi Gaba| Dr. Vishnu Panwar| Dr. Farah Hussain| 
 |Dr. Preeti Thakur  |Dr. Rohit Gupta | Dr. Umesh Chand | 
-| |Dr. Rajni  | |
+| |Dr. Rajni Arora | |
