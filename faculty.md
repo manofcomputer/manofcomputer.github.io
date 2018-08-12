@@ -64,7 +64,7 @@ Professor, Anaesthesiology
 AMU-Aligarh  
   
 Dr. Anoop Gogia  
-Professor, Anaesthesiology & HOD  
+Professor, Anaesthesiology  
 Vardhman Mahavir Medical College -Delhi  
   
 Dr. P K Verma   
@@ -131,15 +131,15 @@ MAMC - Delhi
   
 Dr. Savita Saini  
 Professor & HOD, Anaesthesiology  
-Rohtak Medical College-Rohtak  
+PGIMS-Rohtak  
   
 Dr. Susheela Taxak   
 Professor, Anaesthesiology  
-Rohtak Medical College-Rohtak  
+PGIMS-Rohtak  
   
 Dr.  Naveen Malhotra   
 Professor, Anaesthesiology   
-Rohtak Medical College -Rohtak  
+PGIMS-Rohtak  
   
 Dr. Manoj Bhardwaj  
 Senior Consultant, Anaesthesiology  
@@ -178,7 +178,7 @@ Professor,Anaesthesilogy
 AIIMS Rishikesh  
   
 Dr. Preeti Varshnay  
-Associate Professor, Anaesthesiology  
+Assistant Professor, Anaesthesiology  
 Lady Harding Medical College - Delhi   
   
 Dr. Anju Gupta  
@@ -190,7 +190,7 @@ Associate Professor, Anaesthesiology
 IRCH, AIIMS-Delhi   
   
 Dr. Garima Agarwal   
-Associate Professor, Anaesthesiology   
+Assistant Professor, Anaesthesiology   
 Lady Hardinge Medical College -Delhi  
   
   
