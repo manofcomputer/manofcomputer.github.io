@@ -13,9 +13,11 @@ As always, case discussions, recent advances and problem based management on var
 # Announcements:
 <!-- <marquee direction="up" scrollamount="4"> -->
 <div class="marquee">
-<p><strong><font color="red" size="2">NEW </font>Entries are invited from interested institutions for quiz on 2nd September (Team Size:3)</strong>
+<p><strong>Entries are invited from interested institutions for quiz on 2nd September (Team Size:3)</strong>
 	<br>
-	<strong><font color="red" size="2">NEW </font>Schedule has now been released</strong></p>
+	<strong>Schedule has now been released</strong>
+	<br>
+	<strong><font color="red" size="2">NEW </font>On popular demand the registration date has been extended till 20th August 2018</strong></p>
 </div>
 <!-- </marquee> -->
 
