@@ -307,7 +307,7 @@ footer {
   }
 
 .marquee {
-	height: 100px;
+	height: 120px;
 	background-color: white;
 	color: black;
     overflow: hidden;
@@ -318,7 +318,7 @@ footer {
     display: inline-block;
     padding-top: 10%;
     padding-bottom: 10%;
-    animation: marquee 4s linear infinite;
+    animation: marquee 7s linear infinite;
 }
 
 @keyframes marquee {

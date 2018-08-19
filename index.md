@@ -17,7 +17,10 @@ As always, case discussions, recent advances and problem based management on var
 	<br>
 	<strong>Schedule has now been released</strong>
 	<br>
-	<strong><font color="red" size="2">NEW </font>On popular demand the registration date has been extended till 20th August 2018</strong></p>
+	<strong><font color="red" size="2">NEW </font>On popular demand the registration date has been extended till 20th August 2018</strong>
+	<br>
+	<strong><font color="red" size="2">NEW </font>Delhi Medical Council Accreditation for 28 credit hours</strong></p>
+
 </div>
 <!-- </marquee> -->
 
